@@ -1,0 +1,60 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    /* background-color: black; */
+    align-items: center;
+}
+.navmenu{
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+    margin: auto;
+    margin-left: 20%;
+    margin-right: 10%;
+}
+.img{
+    width: 30%;
+    display: flex;
+    align-items: center;
+    margin-left: 3%;
+    height: 50px;
+    
+}
+.navlink{
+    color: green;
+    font-size: large;
+    font-weight: 600;
+    cursor: pointer;
+    text-decoration: none;
+    
+}
+.box{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+
+    /* border: 2px solid red; */
+    height:90% ;
+
+}
+.chakra{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    opacity: 0.5;
+    /* background-color: blue; */
+    text-align: center;
+    margin-bottom: 300%;
+}
+
+
+.active{
+    color: brown;
+}
