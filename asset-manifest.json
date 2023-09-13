@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GEEK_Asgn_Routing/static/css/main.60762741.css",
+    "main.js": "/GEEK_Asgn_Routing/static/js/main.4f200841.js",
+    "static/js/787.8de1b666.chunk.js": "/GEEK_Asgn_Routing/static/js/787.8de1b666.chunk.js",
+    "index.html": "/GEEK_Asgn_Routing/index.html",
+    "main.60762741.css.map": "/GEEK_Asgn_Routing/static/css/main.60762741.css.map",
+    "main.4f200841.js.map": "/GEEK_Asgn_Routing/static/js/main.4f200841.js.map",
+    "787.8de1b666.chunk.js.map": "/GEEK_Asgn_Routing/static/js/787.8de1b666.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60762741.css",
+    "static/js/main.4f200841.js"
+  ]
+}
